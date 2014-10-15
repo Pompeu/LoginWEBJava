@@ -13,13 +13,13 @@ public class TextDao {
 		/*cadastrar();
 		atualizar();
 		excluir();
-		resultado();*/
-		logar();/*
+		resultado();
+		logar();
 		Bnome();
 		buscaId(16);*/
 
 	}
-
+/*
 	private static void atualizar() {
 		Usuario usuA = new Usuario(1, "Abadio", "1234", "Ababa");
 		UsuarioDAO usd = new UsuarioDAO();
@@ -83,5 +83,5 @@ public class TextDao {
 		
 		UsuarioDAO usu = new UsuarioDAO();
 		System.out.println(usu.altenticar(usuario));
-	}
+	}*/
 }
